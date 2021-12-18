@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=denisshamanskiy&label=Profile%20views&color=0e75b6&style=plastic" alt="denisshamanskiy" /> </p>
 
-<p align="center">📫 Мой email **d.g.shamanskiy@gmail.com**</p>
+<center>📫 Мой email **d.g.shamanskiy@gmail.com**</center>
 
-<p align="center">📄 Узнать о моем опыте и посмотреть резюме на [HH](https://spb.hh.ru/resume/4bdcbfd1ff0980a68a0039ed1f42716657314b)</p>
+<center>📄 Узнать о моем опыте и посмотреть резюме на [HH](https://spb.hh.ru/resume/4bdcbfd1ff0980a68a0039ed1f42716657314b)</center>
 
 <h3 align="center">Связаться со мной:</h3>
 <p align="center">
