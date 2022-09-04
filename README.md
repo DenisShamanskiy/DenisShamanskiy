@@ -1,52 +1,48 @@
-<h1 align="left">Привет 👋, меня зовут Денис</h1>
-<h3 align="left">Я начинающий web-разработчик из Санкт-Петербурга</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=denisshamanskiy&label=Profile%20views&color=0e75b6&style=plastic" alt="denisshamanskiy" /> </p>
-
-- 📫 Мой email **d.g.shamanskiy@gmail.com**
-
-- 📄 Узнать о моем опыте и посмотреть резюме на [HH](https://spb.hh.ru/resume/4bdcbfd1ff0980a68a0039ed1f42716657314b)
-
-<h3 align="left">Связаться со мной:</h3>
-<p align="left">
+<p align="center"><img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="150"/></p>
+<p align="center">
 <a href="https://codepen.io/denisshamanskiy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="denisshamanskiy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/денис-шаманский-832b18b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="денис-шаманский-832b18b4" height="30" width="40" /></a>
 <a href="https://fb.com/denis.shamanskiy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="denis.shamanskiy" height="30" width="40" /></a>
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=denisshamanskiy&label=Profile%20views&color=0e75b6&style=plastic" alt="denisshamanskiy" /> </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></a> </p>
+---
 
-<p style="margin-top: 20px"><img align="left" style="margin-top: 20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=denisshamanskiy&show_icons=true&locale=en&layout=compact" alt="denisshamanskiy" /></p>
+### :man_technologist: &nbsp;Обо мне :
 
-<p style="margin-top: 20px">&nbsp;<img align="left" style="margin-top: 20px" src="https://github-readme-stats.vercel.app/api?username=denisshamanskiy&show_icons=true&bg_color=ffffff&hide_border=true&cache_seconds=1800&locale=en" alt="denisshamanskiy" /></p>
+Меня зовут Денис. Я начинающий web-разработчик из Санкт-Петербурга.
 
-<p style="margin-top: 20px"><img align="left" style="margin-top: 20px" src="https://github-readme-streak-stats.herokuapp.com/?user=denisshamanskiy&" alt="denisshamanskiy" /></p>
+- 🔭 В данный момент я в активном поиске работы.
+- 🌱 Закончил курс «Веб‑разработчик» в Яндекс Практикум.
+- ⚡ В свободное время продолжаю обучение самостоятельно. 
+- 📫 Связаться со мной: **d.g.shamanskiy@gmail.com**
+- 📋 Резюме на [HH.ru](https://spb.hh.ru/resume/9cbe997dff0b2d090f0039ed1f4c646e42716e)
 
+---
 
+### 🛠 &nbsp;Languages and Tools :
 
-<!--
-**DenisShamanskiy/DenisShamanskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt=MongoDB" width="40" height="40"/>&nbsp;
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 &nbsp; Моя статистика :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenisShamanskiy)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisShamanskiy)](https://github.com/DenisShamanskiy/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisShamanskiy)](https://github.com/DenisShamanskiy/github-readme-stats)
