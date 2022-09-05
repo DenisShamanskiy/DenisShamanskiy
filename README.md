@@ -6,6 +6,8 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=denisshamanskiy&label=Profile%20views&color=0e75b6&style=plastic" alt="denisshamanskiy" /> </p>
 
+<p align="center"> <img src="https://www.codewars.com/users/DenisShamanskiy/badges/small?theme=light" alt="denisshamanskiy" />
+
 ---
 
 ### :man_technologist: &nbsp;Обо мне :
