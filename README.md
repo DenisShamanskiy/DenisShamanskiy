@@ -20,6 +20,8 @@
 - 📫 Связаться со мной: **d.g.shamanskiy@gmail.com**
 - 📋 Резюме на [HH.ru](https://spb.hh.ru/resume/9cbe997dff0b2d090f0039ed1f4c646e42716e)
 
+- В данный момент работаю над pet-проектом Wordle: --[Репозиторий](https://github.com/DenisShamanskiy/react-demo-wordle)-- --[GitHub Pages](https://denisshamanskiy.github.io/react-demo-wordle/)--
+
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
