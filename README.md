@@ -8,7 +8,7 @@
 
 <p align="center"> <img src="https://www.codewars.com/users/DenisShamanskiy/badges/small?theme=light" alt="denisshamanskiy" />
 
-<p align="center"> <a href="https://www.denis-shamansky.com" target="blank" />denis-shamansky.com</a></p>
+<p align="center"> <a href="https://www.denis-shamansky.com" target="_blank" />denis-shamansky.com</a></p>
 
 ---
 
