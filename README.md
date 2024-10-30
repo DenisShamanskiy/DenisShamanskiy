@@ -12,44 +12,29 @@
 
 ---
 
-### :man_technologist: &nbsp;Обо мне :
+# Привет! Я Денис Шаманский 👋
 
-Меня зовут Денис. Я начинающий web-разработчик из Санкт-Петербурга.
+**Frontend-разработчик** с опытом создания и оптимизации веб-приложений. Специализируюсь на **React** и **TypeScript**, работаю с REST API, поддерживаю существующий код и интегрирую новые функции.
 
-- 🔭 В данный момент я в активном поиске работы.
-- 🌱 Закончил курс «Веб‑разработчик» в Яндекс Практикум.
-- ⚡ В свободное время продолжаю обучение самостоятельно. 
-- 📫 Связаться со мной: **d.g.shamanskiy@gmail.com**
-- 📋 Резюме на [HH.ru](https://spb.hh.ru/resume/9cbe997dff0b2d090f0039ed1f4c646e42716e)
+### Мои навыки
+- **Технологии**: React, TypeScript
+- **Инструменты**: Git, Docker, Vite
+- **Методологии**: SCRUM
 
-- В данный момент работаю над pet-проектом Wordle: --[Репозиторий](https://github.com/DenisShamanskiy/react-demo-wordle)-- --[GitHub Pages](https://denisshamanskiy.github.io/react-demo-wordle/)--
+### Профессиональный опыт
+- **Основной проект** — разработка CRM-системы для взаимодействия между компаниями и их клиентами. Занимаюсь созданием интерфейсов, интеграцией с API и оптимизацией функционала. Платформа включает модули для поддержки рабочих процессов и координации взаимодействия. Работа ведется по методологии **SCRUM**.
+  
+- **Дополнительный проект** — новая CRM-платформа для управления клубами и их активностями. Отвечаю за интерфейс и интеграцию ключевых функций для поддержки работы пользователей.
 
----
-
-### 🛠 &nbsp;Languages and Tools :
-
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt=MongoDB" width="40" height="40"/>&nbsp;
-</p>
+### Личные проекты
+- **Wordle** — pet-проект. Доступен по [ссылке](https://www.wordle-by-ds.ru).
 
 ---
 
-### 🔥 &nbsp; Моя статистика :
+📫 Связаться со мной: **d.g.shamanskiy.develop@gmail.com**
+
+---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenisShamanskiy)](https://git.io/streak-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisShamanskiy)](https://github.com/DenisShamanskiy/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisShamanskiy)](https://github.com/DenisShamanskiy/github-readme-stats)
